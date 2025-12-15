@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Entorno virtual del proyecto ---
+vehicles_env/
+
+# --- Archivos del sistema macOS ---
+.DS_Store
